@@ -276,7 +276,7 @@ Item {
 
         // The Idle emotion can be set at any time
         if (emotion === "Idle") {
-            face.state = "Idle";
+            face.state = "Happy";
             return;
         }
 
